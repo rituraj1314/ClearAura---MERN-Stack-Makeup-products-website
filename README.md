@@ -1,1 +1,1 @@
-# ClearAura-MERN-Stack-Makeup-products-website
+# ClearAura-MERN-Stack-SkinCare-E-Commerce-website
