@@ -25,8 +25,8 @@ Welcome to the Skincare E-Commerce Platform! This project showcases a fully-func
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/skincare-ecommerce.git
-   cd skincare-ecommerce
+   git clone https://github.com/rituraj1314/ClearAura-MERN-Stack-SkinCare-E-Commerce-website.git
+   cd ClearAura-MERN-Stack-SkinCare-E-Commerce-website
    ```
 
 2. **Install Backend Dependencies:**
